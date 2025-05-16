@@ -74,6 +74,6 @@ python APKActivities.py
 
 ---
 
-## ⚠️ Notes
+## ⚠️ License
 
 Feel free to modify and use this script in your own testing or automation tools.
